@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF4_SS2022/AAD/Nachprojekt/MyWeather/app/src/main/res/layout/activity_details.xml" value="0.3671875" />
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF4_SS2022/AAD/Nachprojekt/MyWeather/app/src/main/res/layout/activity_main.xml" value="0.353125" />
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF4_SS2022/AAD/Nachprojekt/MyWeather/app/src/main/res/layout/activity_settings.xml" value="0.3671875" />
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF4_SS2022/AAD/Nachprojekt/MyWeather/app/src/main/res/layout/list_item.xml" value="0.3671875" />
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF4_SS2022/AAD/Nachprojekt/MyWeather/app/src/main/res/layout/list_item_top.xml" value="0.3671875" />
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF4_SS2022/AAD/Nachprojekt/MyWeather/app/src/main/res/menu/main.xml" value="0.3671875" />
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF4_SS2022/AAD/Nachprojekt/MyWeather/app/src/main/res/xml/pref_general.xml" value="0.3671875" />
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF5_WS2022/Praktikum/MyWeather/app/src/main/res/layout/activity_details.xml" value="0.1796875" />
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF5_WS2022/Praktikum/MyWeather/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF5_WS2022/Praktikum/MyWeather/app/src/main/res/layout/activity_settings.xml" value="0.1796875" />
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF5_WS2022/Praktikum/MyWeather/app/src/main/res/layout/list_item.xml" value="0.1796875" />
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF5_WS2022/Praktikum/MyWeather/app/src/main/res/layout/list_item_top.xml" value="0.1796875" />
+        <entry key="..\:/Users/Manuel/Documents/FHTW_BIF5_WS2022/Praktikum/MyWeather/app/src/main/res/xml/pref_general.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

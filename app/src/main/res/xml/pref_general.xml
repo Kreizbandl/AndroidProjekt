@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="General Settings">
+
+        <CheckBoxPreference
+            android:defaultValue="@bool/settings_measurement_unit_default_value"
+            android:key="@string/settings_measurement_unit_key"
+            android:summaryOff="@string/settings_measurement_unit_off"
+            android:summaryOn="@string/settings_measurement_unit_on"
+            android:title="@string/settings_measurement_unit_title" />
+        <EditTextPreference
+            android:defaultValue="@string/settings_location_default_value"
+            android:key="@string/settings_location_key"
+            android:summary="@string/settings_location_key"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/settings_location_title" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

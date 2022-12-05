@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="settings_measurement_unit_key">measurement_unit</string>
+    <string name="settings_measurement_unit_off">imperial</string>
+    <string name="settings_measurement_unit_on">metric</string>
+    <string name="settings_measurement_unit_title">Measurement unit</string>
+    <string name="settings_location_default_value">Vienna</string>
+    <string name="settings_location_key">location</string>
+    <string name="settings_location_title">Location selection</string>
+</resources>
